@@ -55,9 +55,11 @@ The Web-App is designed as such:
 1. **The user needs to upload the image.**
 <img src="https://github.com/Sudarshana2000/Sudoku-solver/blob/master/images/IMG1.JPG" />
 <br />
+
 2. **Once uploaded, press Solve.**
 <img src="https://github.com/Sudarshana2000/Sudoku-solver/blob/master/images/IMG2.JPG" />
 <br />
+
 3. **The solution to the given Sudoku is provided.**
 <img src="https://github.com/Sudarshana2000/Sudoku-solver/blob/master/images/IMG3.JPG" />
 <br />
